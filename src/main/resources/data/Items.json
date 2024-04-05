@@ -1,0 +1,136 @@
+[
+  {
+    "id": 1,
+    "name": "Sneakers",
+    "price": 59.99,
+    "brand": "Nike",
+    "category": "Shoes"
+  },
+  {
+    "id": 2,
+    "name": "Jacket",
+    "price": 129.95,
+    "brand": "Adidas",
+    "category": "Clothing"
+  },
+  {
+    "id": 3,
+    "name": "Jeans",
+    "price": 79.99,
+    "brand": "Levi's",
+    "category": "Clothing"
+  },
+  {
+    "id": 4,
+    "name": "Dress",
+    "price": 49.99,
+    "brand": "Zara",
+    "category": "Clothing"
+  },
+  {
+    "id": 5,
+    "name": "Hat",
+    "price": 19.99,
+    "brand": "New Era",
+    "category": "Accessories"
+  },
+    {
+      "id": 6,
+      "name": "T-shirt",
+      "price": 24.99,
+      "brand": "H&M",
+      "category": "Clothing"
+    },
+    {
+      "id": 7,
+      "name": "Sneakers",
+      "price": 89.99,
+      "brand": "Reebok",
+      "category": "Shoes"
+    },
+    {
+      "id": 8,
+      "name": "Jeans",
+      "price": 69.99,
+      "brand": "Wrangler",
+      "category": "Clothing"
+    },
+    {
+      "id": 9,
+      "name": "Jacket",
+      "price": 149.95,
+      "brand": "The North Face",
+      "category": "Clothing"
+    },
+    {
+      "id": 10,
+      "name": "Dress",
+      "price": 59.99,
+      "brand": "Mango",
+      "category": "Clothing"
+    },
+    {
+      "id": 11,
+      "name": "Hat",
+      "price": 29.99,
+      "brand": "Goorin Bros",
+      "category": "Accessories"
+    },
+    {
+      "id": 12,
+      "name": "T-shirt",
+      "price": 19.99,
+      "brand": "Uniqlo",
+      "category": "Clothing"
+    },
+    {
+      "id": 13,
+      "name": "Sneakers",
+      "price": 99.99,
+      "brand": "Converse",
+      "category": "Shoes"
+    },
+    {
+      "id": 14,
+      "name": "Jeans",
+      "price": 79.99,
+      "brand": "Guess",
+      "category": "Clothing"
+    },
+    {
+      "id": 15,
+      "name": "Jacket",
+      "price": 169.95,
+      "brand": "Patagonia",
+      "category": "Clothing"
+    },
+    {
+      "id": 16,
+      "name": "Dress",
+      "price": 69.99,
+      "brand": "Zara",
+      "category": "Clothing"
+    },
+    {
+      "id": 17,
+      "name": "Hat",
+      "price": 24.99,
+      "brand": "Brixton",
+      "category": "Accessories"
+    },
+    {
+      "id": 18,
+      "name": "T-shirt",
+      "price": 14.99,
+      "brand": "American Apparel",
+      "category": "Clothing"
+    },
+    {
+      "id": 19,
+      "name": "Sneakers",
+      "price": 79.99,
+      "brand": "Vans",
+      "category": "Shoes"
+    }
+  ]
+
